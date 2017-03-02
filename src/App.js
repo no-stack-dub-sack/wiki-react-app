@@ -2,7 +2,6 @@ import React from 'react';
 import Form from './components/Form';
 import SearchHistory from './components/SearchHistory';
 import { Route, NavLink } from 'react-router-dom';
-import './App.css';
 
 class App extends React.Component {
   state = {
