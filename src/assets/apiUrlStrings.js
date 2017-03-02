@@ -1,0 +1,2 @@
+export const prefix = 'https://en.wikipedia.org/w/api.php?format=json&action=query&generator=search&gsrnamespace=0&gsrsearch=';
+export const suffix = '&gsrlimit=10&prop=pageimages|extracts&pilimit=max&pithumbsize=200&exintro&explaintext&exsentences=3&exlimit=max&callback=?';
